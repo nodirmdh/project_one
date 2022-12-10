@@ -1,2 +1,4 @@
-# project_one
- A project for working with JavaScript DOM elements, there is a slider, timer, modal windows
+# TEST PROJECT
+Проект сделанный на html, CSS, Javascript
+
+На сайте были сделаны табы, модальные окна, слайдер
